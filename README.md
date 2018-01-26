@@ -27,9 +27,9 @@
 2. Испания 
 3. Египет
 #### Горы, на которых я была
-+ Эльбрус
-+ Лаго-Наки
-+ Ай-Петри
++ [Эльбрус](http://fb.ru/article/147896/elbrus---gora-na-bolshom-kavkaze)
++ [Лаго-Наки](http://fb.ru/article/123213/lagonaki-dostoprimechatelnosti---nastoyaschie-chudesa)
++ [Ай-Петри](http://fb.ru/article/357334/kak-dobratsya-do-ay-petri-iz-yaltyi---opisanie-osobennosti-i-rekomendatsii)
 ##### Сравнение высоты гор
 Эльбрус|Лаго-Наки|Ай-Петри
 :---:|:---:|:---:
